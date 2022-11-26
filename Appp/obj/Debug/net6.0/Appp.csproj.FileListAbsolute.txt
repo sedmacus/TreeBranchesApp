@@ -1,0 +1,15 @@
+C:\Users\Asus_pc\Desktop\Appp\bin\Debug\net6.0\Appp.exe
+C:\Users\Asus_pc\Desktop\Appp\bin\Debug\net6.0\Appp.deps.json
+C:\Users\Asus_pc\Desktop\Appp\bin\Debug\net6.0\Appp.runtimeconfig.json
+C:\Users\Asus_pc\Desktop\Appp\bin\Debug\net6.0\Appp.dll
+C:\Users\Asus_pc\Desktop\Appp\bin\Debug\net6.0\Appp.pdb
+C:\Users\Asus_pc\Desktop\Appp\obj\Debug\net6.0\Appp.csproj.AssemblyReference.cache
+C:\Users\Asus_pc\Desktop\Appp\obj\Debug\net6.0\Appp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus_pc\Desktop\Appp\obj\Debug\net6.0\Appp.AssemblyInfoInputs.cache
+C:\Users\Asus_pc\Desktop\Appp\obj\Debug\net6.0\Appp.AssemblyInfo.cs
+C:\Users\Asus_pc\Desktop\Appp\obj\Debug\net6.0\Appp.csproj.CoreCompileInputs.cache
+C:\Users\Asus_pc\Desktop\Appp\obj\Debug\net6.0\Appp.dll
+C:\Users\Asus_pc\Desktop\Appp\obj\Debug\net6.0\refint\Appp.dll
+C:\Users\Asus_pc\Desktop\Appp\obj\Debug\net6.0\Appp.pdb
+C:\Users\Asus_pc\Desktop\Appp\obj\Debug\net6.0\Appp.genruntimeconfig.cache
+C:\Users\Asus_pc\Desktop\Appp\obj\Debug\net6.0\ref\Appp.dll
